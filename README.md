@@ -26,21 +26,19 @@ This project is an online platform that allows users to browse, search, and purc
 | Tools          | Git, GitHub, VS Code                   |
 
 ---
+## 📁 Folder Structure
 
-## 📂 Folder Structure
-
+```plaintext
 car-sales-inventory-store/
-├── public/ # Static files (CSS, JS, images)
-├── views/ # Handlebars templates
-│ ├── layouts/
-│ └── partials/
-├── routes/ # App routes
-├── models/ # Database logic (if using one)
-├── app.js # Main server file
-├── package.json # Project dependencies
-└── README.md # Project overview
-
-
+├── public/         # Static files (CSS, JS, images)
+├── views/          # Handlebars templates
+│   ├── layouts/
+│   ├── partials/
+├── routes/         # App routes
+├── models/         # Database logic
+├── app.js          # Main server file
+├── package.json    # Project dependencies
+└── README.md       # Project overview
 ---
 
 ## 🚀 Features
