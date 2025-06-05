@@ -1,6 +1,6 @@
 # 🚗 Car Sales & Inventory Store – Web Development Project
 
-![App Demo](App%20Run.gif)
+                  ![App Demo](App%20Run.gif)
 
 This project is an online platform that allows users to browse, search, and purchase cars and car accessories. It provides a modern user interface for customers and an inventory management system for sellers/admins. Developed as part of a full-stack development internship, this project uses server-side templating and data handling logic.
 
